@@ -1,13 +1,13 @@
-# IS-SII-313-Inventory-Management-System
+IS-SII-313-Inventory-Management-System
 Inventory Management System
 
-A CRUD-based Inventory Management System for computer parts, designed as a Windows desktop application.
+A CRUD-based Inventory Management System for computer parts, made as a Windows desktop application.
 
 Final Term Activity #1
 
-The activity focused on designing an Inventory Management System based on a client scenario. I first created a physical prototype drawing on bond paper to plan the system's layout, pages, buttons, and functions.
+The activity was about designing an Inventory Management System based on a client scenario. I first made a physical prototype on bond paper to plan the system's layout, pages, buttons, and functions.
 
-The prototype was then used as a guide in developing the actual system.
+The prototype was then used as a guide when developing the actual system.
 
 CRUD Functions
 Create - Add new products
@@ -16,11 +16,11 @@ Update - Edit product information
 Delete - Remove records
 System Development
 
-After the prototype, I developed the system using C# and .NET 10 with WPF. Microsoft Access was used for the database.
+After making the prototype, I developed the system using C# and .NET 10 with WPF. Microsoft Access was used to store the system's data.
 
 Arki Computer Parts
 
-The finished system is called Arki Computer Parts. It is designed to manage computer parts and their inventory records.
+The finished system is called Arki Computer Parts. It is made to manage computer parts and their inventory records.
 
 Main Features
 Dashboard
@@ -38,11 +38,10 @@ WPF (Windows Presentation Foundation)
 Microsoft Access
 Visual Studio Code
 Inno Setup
-
 Final Output
 
 The completed system is packaged as:
 
 Arki Computer Parts Setup.exe
 
-This allows the system to be installed and used as a Windows desktop application.
+The installer can be downloaded from the Releases section of this repository. It allows the system to be installed and used as a Windows desktop application.
