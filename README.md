@@ -44,4 +44,8 @@ The completed system is packaged as:
 
 Arki Computer Parts Setup.exe
 
-The installer can be downloaded from the Releases section of this repository. It allows the system to be installed and used as a Windows desktop application.
+The installer is available in the **Releases** section of this repository.
+
+If you want to use or test the system, please **send me a message first to request access and the login details**.
+
+The installer allows the system to be installed and used as a Windows desktop application.
