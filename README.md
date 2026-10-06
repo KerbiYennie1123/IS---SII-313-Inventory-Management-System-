@@ -1,4 +1,4 @@
-# IS-SII-313-Inventory-Management-System-
+# IS-SII-313-Inventory-Management-System
 Inventory Management System
 
 A CRUD-based Inventory Management System for computer parts, designed as a Windows desktop application.
